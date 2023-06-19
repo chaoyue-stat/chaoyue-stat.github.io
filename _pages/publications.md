@@ -17,6 +17,6 @@ Publications
 - L. Huang, W. Q. Hang<sup>*</sup>, **Y. Chao**. High-dimensional Regression with Ordered Multiple Categorical Predictors[J]. *Statistics in Medicine*, 39(3): 294-309, 2020.
 
 
-</sup>*</sup>Corresponding Author.
+<sup>*</sup>Corresponding Author.
    
 
