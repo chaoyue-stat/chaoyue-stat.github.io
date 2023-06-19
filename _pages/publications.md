@@ -6,4 +6,4 @@ author_profile: true
 ---
 Preprints
 ======
-**Y. Chao**, L. Huang, X. J. Ma<sup>*</sup>*.
+**Y. Chao**, L. Huang, X. J. Ma<sup>*.
