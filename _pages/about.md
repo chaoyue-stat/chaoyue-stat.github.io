@@ -12,9 +12,9 @@ Hi! I am a second-year Ph.D. student from the Department of Statistics, School o
 
 Research Interests
 ======
- My research interest includes high-dimensional data analysis, distributed learning, massive data analysis.
+My research interests include high-dimensional data analysis, distributed learning, and massive data analysis.
 
-Getting started
+Education
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
