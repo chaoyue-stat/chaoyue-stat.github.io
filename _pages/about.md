@@ -16,7 +16,7 @@ My research interests include high-dimensional data analysis, distributed learni
 
 Education
 ======
-- Ph.D., Statistics, Soochow University, 2021 - Now.
-- M.S., Southwest Jiaotong University, 2018 - 2021.
+- Ph.D., Statistics, Soochow University, 2021 - Now. Supervised by Professor Guojing Wang and Professor(Associate) Xuejun Ma.
+- M.S., Southwest Jiaotong University, 2018 - 2021. Supervised by Professor(Associate) [Lei Huang](https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index.htm).
 - B.S., Southwest Jiaotong University, 2014 - 2018.
 
