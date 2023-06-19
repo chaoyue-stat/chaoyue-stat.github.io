@@ -4,7 +4,7 @@ title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
-- **Y. Chao**, L. Huang, X. J. M<sup>*</sup>. Distributed Penalized Regression with Compositional Covariates. Submitted to *Journal of Machine Learning Research*. 
+- **Y. Chao**, L. Huang, X. J. Ma<sup>*</sup>. Distributed Penalized Regression with Compositional Covariates. Submitted to *Journal of Machine Learning Research*. 
 - **Y. Chao**, X. J. Ma<sup>*</sup>, B. Y. Zhu. Distributed Optimal Subsampling for Quantile Regression with Massive Data. Submitted to *Journal of Statistical Planning and Inference*. Second Round of Review.
 - J. R. Chen, X. J. Ma, and **Y. Chao**<sup>*</sup>. Measuring and Testing Independence for Multivariate Time Series by Auto Multivariate Distance Covariance. Submitted to *Journal of the Korean Statistical Society*.
 
