@@ -16,6 +16,9 @@ Publications
 - L. Shen, **Y. Chao**, X. J. Ma<sup>*</sup>. Distributed Quantile Regression in Decentralized Optimization[J]. *Information Science*, 643, 119259, 2023.
 - **Y. Chao**, X. J. Ma, Y. G. Li, L. Huang<sup>*</sup>. A Penalized Estimation for the Cox Model with Ordinal Multinomial Covariates[J]. *Journal of Statistical Computation and Simulation*, 92(6): 1194-1223, 2022.
 - **Y Chao**, Y. X. Tan,X. Dan, L. Huang<sup>*</sup>. Study on Logistic Regression with Ordinal Multinomial Covariates[J]. *Journal of Statistics and Information*, 36(03): 20-31, 2021.
-- L. Huang, W. Q. Hang<sup>*</sup>, **Y. Chao**. High-dimensional Regression with Ordered Multiple Categorical Predictors[J]. *Statistics in Medicine*, 39(3): 294-309, 2020. 
+- L. Huang, W. Q. Hang<sup>*</sup>, **Y. Chao**. High-dimensional Regression with Ordered Multiple Categorical Predictors[J]. *Statistics in Medicine*, 39(3): 294-309, 2020.
+
+
+<sup>*</sup>Corresponding Author.
    
 
