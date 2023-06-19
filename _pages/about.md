@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second year Ph.D. student from Department of Statistics, School of Mathematical Sciences, Soochow University in China.
+Hi! I am a second-year Ph.D. student from the Department of Statistics, School of Mathematical Sciences, Soochow University in China. My research interest includes high-dimensional data analysis, distributed learning, massive data analysis. I am very fortunate to be supervised by Professor Guojing Wang and Professor(Associate) [Xuejun Ma](https://xuejunma.github.io/englishcv/). 
 
 A data-driven personal website
 ======
