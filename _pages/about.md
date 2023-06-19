@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year Ph.D. student from the Department of Statistics, School of Mathematical Sciences, Soochow University in China. I am very fortunate to be supervised by Professor Guojing Wang and Professor(Associate) [Xuejun Ma](https://xuejunma.github.io/englishcv/). 
+Hi! I am a second-year Ph.D. student from the Department of Statistics, School of Mathematical Sciences, Soochow University in China. I am very fortunate to be supervised by Professor Guojing Wang and Professor(Associate) [Xuejun Ma](https://xuejunma.github.io/englishcv/) during the period of pursuing my Ph.D. degree. 
 
 Research Interests
 ======
