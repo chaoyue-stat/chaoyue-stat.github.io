@@ -4,5 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-**Y. Chao**
+Preprints
+======
+**Y. Chao**, L. Huang, X. J. Ma<sup>*</sup>*.
