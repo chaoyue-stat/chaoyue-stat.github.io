@@ -23,7 +23,7 @@ My research interests include
 
 Education
 ======
-- Ph.D., Statistics, Soochow University, 2021 - Now. Advised by Professor Guojing Wang and Professor(Associate) Xuejun Ma.
-- M.S., Statistics, Southwest Jiaotong University, 2018 - 2021. Advised by Professor(Associate) Lei Huang.
-- B.S., Mathematics and Applied Mathematics, Southwest Jiaotong University, 2014 - 2018.
+- Ph.D., Statistics, Soochow University, 2021 - Now. Suzhou. Advised by Professor Guojing Wang and Professor(Associate) Xuejun Ma.
+- M.S., Statistics, Southwest Jiaotong University, 2018 - 2021. Chengdu. Advised by Professor(Associate) Lei Huang.
+- B.S., Mathematics and Applied Mathematics, Southwest Jiaotong University, 2014 - 2018. Chengdu.
 
