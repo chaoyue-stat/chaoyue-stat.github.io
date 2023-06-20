@@ -1,3 +1,5 @@
+Welcome to my personal academic website, dedicated to the field of statistics! I am honored to have the opportunity to share my research and academic interests with you. Furthermore, we can exchange and discuss statistical issues together, and even become friends. Thank you!
+
 ---
 permalink: /
 title: "About me"
