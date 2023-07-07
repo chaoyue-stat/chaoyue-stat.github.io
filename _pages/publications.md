@@ -10,7 +10,7 @@ author_profile: true
 
 Publications
 ======
-- **Y. Chao**, L. Huang, X. J. Ma\*, and J. J. Sun. Optimal Subsampling for Modal Regression in Massive Data[J]. _Metrika_. Accepted.
+- **Y. Chao**, L. Huang, X. J. Ma\*, and J. J. Sun. Optimal Subsampling for Modal Regression in Massive Data[J]. _Metrika_. 2023. In press. DOI: [https://doi.org/10.1007/s00184-023-00916-2](https://doi.org/10.1007/s00184-023-00916-2).
 - L. Shen, **Y. Chao**, and X. J. Ma\*. Distributed Quantile Regression in Decentralized Optimization[J]. *Information Science*, 643, 119259, 2023.
 - **Y. Chao**, X. J. Ma, Y. G. Li, and L. Huang\*. A Penalized Estimation for the Cox Model with Ordinal Multinomial Covariates[J]. *Journal of Statistical Computation and Simulation*, 92(6): 1194-1223, 2022.
 - **Y Chao**, Y. X. Tan, D. Xu, and L. Huang\*. Study on Logistic Regression with Ordinal Multinomial Covariates[J]. *Journal of Statistics and Information*, 36(03): 20-31, 2021.
