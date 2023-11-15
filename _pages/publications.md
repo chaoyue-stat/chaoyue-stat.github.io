@@ -4,7 +4,7 @@ title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
-- Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Reweighted-Least-Square Updating for Distributed Quantile Regression under the Limited Memory. Working Paper.
+- Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Reweighted-Least-Squares Updating for Distributed Quantile Regression under the Limited Memory. Working Paper.
 - **Y. Chao**, W. Zhong, and X. C. Xia\*. Subsampling-Fused Distributed Learning with a Growing Number of Parameters. Working Paper.
 - **Y. Chao**, L. Huang, and X. J. Ma\*. Distributed Linear Regression with Compositional Covariates. Submitted to _Journal of Machine Learning Research_. 
 - **Y. Chao**, X. J. Ma\*, and B. Y. Zhu. Distributed Optimal Subsampling for Quantile Regression with Massive Data. Submitted to _Journal of Statistical Planning and Inference_. Second Round of Review.
