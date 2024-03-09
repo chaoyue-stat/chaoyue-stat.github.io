@@ -4,7 +4,7 @@ title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
-- Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Working Paper.
+- Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Submitted to _Communications in Statistics-Simulation and Computation_.
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Reweighted-Least-Squares Updating for Distributed Quantile Regression under the Limited Memory. Working Paper.
 - **Y. Chao**, X. C. Xia\*, and W. Zhong.  Statistical Inference for Communication-efficient Diverging-Dimensional Distributed Estimation with Pilot Sample. To be submitted.
 - **Y. Chao**, L. Huang, and X. J. Ma\*. Distributed Linear Regression with Compositional Covariates. Submitted to _Journal of Machine Learning Research_. 
