@@ -9,7 +9,7 @@ author_profile: true
 - **Y. Chao**, X. C. Xia\*, and W. Zhong.  Statistical Inference for Communication-efficient Diverging-Dimensional Distributed Estimation with Pilot Sample. To be submitted.
 - **Y. Chao**, L. Huang, and X. J. Ma\*. Distributed Linear Regression with Compositional Covariates. Submitted to _Journal of Machine Learning Research_. 
 - **Y. Chao**, X. J. Ma\*, and B. Y. Zhu. Distributed Optimal Subsampling for Quantile Regression with Massive Data. Submitted to _Journal of Statistical Planning and Inference_. Second Round of Review.
-- J. R. Chen, X. J. Ma, and **Y. Chao**\*. Measuring and Testing Independence for Multivariate Time Series by Auto Multivariate Distance Covariance. Submitted to _Communications in Statistics-Theory and Methods_.
+- J. R. Chen, X. J. Ma, and **Y. Chao**\*. Testing Independence for Multivariate Time Series by Auto Multivariate Distance Covariance. Submitted to _Communications in Statistics-Theory and Methods_.
 
 Publications
 ======
