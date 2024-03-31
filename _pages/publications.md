@@ -14,7 +14,7 @@ author_profile: true
 
 Publications
 ======
-- J. R. Chen, X. J. Ma, and **Y. Chao**\*. Testing Independence for Multivariate Time Series by Auto Multivariate Distance Covariance.  _Communications in Statistics-Theory and Methods_. 2024+. Accepted.
+- J. R. Chen, X. J. Ma, and **Y. Chao**\*. Testing Independence for Multivariate Time Series by Auto Multivariate Distance Covariance.  _Communications in Statistics-Theory and Methods_. 2024+. Forthcoming. DOI: [https://doi.org/10.1080/03610926.2024.2338418](https://doi.org/10.1080/03610926.2024.2338418).
 - **Y. Chao**, L. Huang, X. J. Ma\*, and J. J. Sun. Optimal Subsampling for Modal Regression in Massive Data[J]. _Metrika_. 2023+. Forthcoming. DOI: [https://doi.org/10.1007/s00184-023-00916-2](https://doi.org/10.1007/s00184-023-00916-2).
 - L. Shen, **Y. Chao**, and X. J. Ma\*. Distributed Quantile Regression in Decentralized Optimization[J]. *Information Sciences*, 643, 119259, 2023. 
 DOI: [https://doi.org/10.1016/j.ins.2023.119259](https://doi.org/10.1016/j.ins.2023.119259). 
