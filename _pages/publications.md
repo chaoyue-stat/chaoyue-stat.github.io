@@ -7,7 +7,7 @@ author_profile: true
 - Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Learning under Least Squares Approximation. To be submitted.
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Submitted to _Communications in Statistics-Simulation and Computation_.
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Reweighted-Least-Squares Updating for Distributed Quantile Regression under the Limited Memory. Working Paper.
-- **Y. Chao**, X. C. Xia\*, and W. Zhong.  Communication-Efficient Pilot Distributed Statistical Inference for Heterogeneity across Machines in Diverging Dimensions. To be submitted.
+- **Y. Chao**, X. C. Xia\*, and W. Zhong. Communication-Efficient Pilot Estimation for Non-randomly Distributed Data in Diverging Dimensions. To be submitted.
 - **Y. Chao**, L. Huang, and X. J. Ma\*. Distributed Linear Regression with Compositional Covariates. Submitted to _IEEE Transactions on Parallel and Distributed Systems_. 
 - **Y. Chao**, X. J. Ma\*, and B. Y. Zhu. Distributed Optimal Subsampling for Quantile Regression with Massive Data. Submitted to _Journal of Statistical Planning and Inference_. Second Round of Review.
 
