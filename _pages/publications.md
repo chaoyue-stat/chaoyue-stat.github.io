@@ -4,11 +4,11 @@ title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
-- Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Learning under Least Squares Approximation. Submitted to _Statistics and Computing_.
-- Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Submitted to _Communications in Statistics-Simulation and Computation_.
-- Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted to _Knowledge-based Systems_.
-- **Y. Chao**, X. C. Xia\*, and W. Zhong. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions. To be submitted.
-- **Y. Chao**, L. Huang, and X. J. Ma\*. Distributed Linear Regression with Compositional Covariates. Submitted to _the Thirty-eighth Annual Conference on Neural Information Processing Systems_. 
+- Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Learning under Least Squares Approximation. Submitted.
+- Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Submitted.
+- Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted.
+- **Y. Chao**, X. C. Xia\*, and W. Zhong. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions. Submitted.
+- **Y. Chao**, L. Huang, and X. J. Ma\*. Distributed Linear Regression with Compositional Covariates. Submitted. 
 
 
 Publications
