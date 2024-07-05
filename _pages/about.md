@@ -14,7 +14,7 @@ Welcome to my personal academic website, dedicated to the field of statistics! I
 
 Working Experisions
 ======
--Postdoc fellow, Statistics, Xiamen University, 2024.8-now. Xiamen. Advised by Professor Wei Zhong.
+-Postdoc Fellow, Statistics, Xiamen University, 2024.8-now. Xiamen. Advised by Professor Wei Zhong.
 
 
 Research Interests
