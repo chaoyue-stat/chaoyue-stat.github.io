@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a last-year Ph.D. student from the Department of Statistics, School of Mathematical Sciences, Soochow University in China. I am very fortunate and appreciative to be advised by Professor Guojing Wang and Professor(Associate) [Xuejun Ma](https://xuejunma.github.io/englishcv/) during the period of pursuing my Ph.D. degree. Additionally, I was advised by Professor(Associate) [Lei Huang](https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index.htm) during my master's program, for which I am also very grateful. After graduating with my Ph.D., I will be working as a postdoctoral fellow at Xiamen University under the guidance of Professor [Wei Zhong](https://wzhong41.github.io).
-
+Hi! I am a Postdoctoral Fellow from the Department of Statistics, School of Economics, Xiamen University in China. I am deeply grateful and fortunate to be advised by Professor [Wei Zhong](https://wzhong41.github.io).  I am very fortunate and appreciative to be advised by Professor Guojing Wang and Professor(Associate) [Xuejun Ma](https://xuejunma.github.io/englishcv/) during the period of pursuing my Ph.D. degree. Additionally, I was advised by Professor(Associate) [Lei Huang](https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index.htm) during my master's program, for which I am also very grateful. 
 Welcome to my personal academic website, dedicated to the field of statistics! I am honored to have the opportunity to share my research and academic interests with you. Furthermore, we can exchange and discuss statistical issues together, and even become friends. Thank you!
 
+Working Experisions
+======
+-Postdoc fellow, Statistics, Xiamen University, 2024.8-now. Xiamen. Advised by Professor Wei Zhong.
 
 
 Research Interests
