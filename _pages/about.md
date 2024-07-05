@@ -12,10 +12,6 @@ Hi! I am a Postdoctoral Fellow from the Department of Statistics, School of Econ
 
 Welcome to my personal academic website, dedicated to the field of statistics! I am honored to have the opportunity to share my research and academic interests with you. Furthermore, we can exchange and discuss statistical issues together, and even become friends. Thank you!
 
-Working Experisions
-======
--Postdoc Fellow, Statistics, Xiamen University, 2024.8-now. Xiamen. Advised by Professor Wei Zhong.
-
 
 Research Interests
 ======
@@ -23,6 +19,10 @@ My research interests include
 - High-dimensional Data Analysis
 - Distributed Learning
 - Massive Data Analysis
+
+Work Experience
+======
+- Postdoc Fellow, Statistics, Xiamen University, 2024.8 - now. Xiamen. Advised by Professor Wei Zhong.
 
 Education
 ======
