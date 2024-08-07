@@ -8,7 +8,7 @@ author_profile: true
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Submitted.
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted.
 - **Y. Chao**, X. C. Xia\*, and W. Zhong. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions. Submitted.
-- **Y. Chao**, L. Huang, and X. J. Ma\*. A Decentralized Distirbuted ADMM Algorithm for Large-Scale Penalized Regression in Compositional Data. Submitted. 
+- **Y. Chao**, L. Huang, and X. J. Ma\*. Decentralized ADMM-Based Optimization for Large-Scale Penalized Regression in Distirbuted Compositional Data. Submitted. 
 
 
 Publications
