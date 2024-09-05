@@ -22,7 +22,7 @@ My research interests include
 
 Work Experience
 ======
-- Postdoc Fellow, Statistics, Xiamen University, 2024.8 - now. Xiamen. Advised by Professor Wei Zhong.
+- Postdoc Fellow, Statistics, Xiamen University, 2024.7 - now. Xiamen. Advised by Professor Wei Zhong.
 
 Education
 ======
