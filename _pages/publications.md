@@ -13,7 +13,7 @@ author_profile: true
 - L. Huang, W. Q. Hang\*, and **Y. Chao**. High-dimensional Regression with Ordered Multiple Categorical Predictors[J]. *Statistics in Medicine*, 39(3): 294-309, 2020. DOI: [ https://doi.org/10.1002/sim.8400]( https://doi.org/10.1002/sim.8400).
 
 
-Paper Under Revision and Review
+Papers Under Revision and Review
 ======
 - Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Learning under Least Squares Approximation.  2024+. Under Review.
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data.  2024+. Under Review.
