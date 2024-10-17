@@ -15,11 +15,12 @@ author_profile: true
 
 Papers Under Revision and Review
 ======
+- **Y. Chao**, X. C. Xia\*, and W. Zhong. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions.  2024+. Under Review.
+- **Y. Chao**, L. Huang, and X. J. Ma\*. Decentralized ADMM-Based Optimization for Large-Scale Penalized Regression in Distirbuted Compositional Data.  2024+. Under Review. 
 - Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Learning under Least Squares Approximation.  2024+. Under Review.
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data.  2024+. Under Review.
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression.  2024+. Under Review.
-- **Y. Chao**, X. C. Xia\*, and W. Zhong. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions.  2024+. Under Review.
-- **Y. Chao**, L. Huang, and X. J. Ma\*. Decentralized ADMM-Based Optimization for Large-Scale Penalized Regression in Distirbuted Compositional Data.  2024+. Under Review. 
+
 
 
 
