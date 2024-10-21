@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+---
 -\*Corresponding Author.
 -<sup>&dagger;</sup>These authors contributed equally to this work.
 ---
