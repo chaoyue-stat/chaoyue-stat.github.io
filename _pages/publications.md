@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
--\*Corresponding Author.
--<sup>&dagger;</sup>These authors contributed equally to this work.
+\*Corresponding Author.
+<sup>&dagger;</sup>These authors contributed equally to this work.
 - **Y. Chao**, X. J. Ma\*, and B. Y. Zhu. Distributed Optimal Subsampling for Quantile Regression with Massive Data[J]. _Journal of Statistical Planning and Inference_, 233: 106186, 2024. DOI: [https://doi.org/10.1016/j.jspi.2024.106186](https://doi.org/10.1016/j.jspi.2024.106186).
 - J. R. Chen, X. J. Ma, and **Y. Chao**\*. Testing Independence for Multivariate Time Series by Auto Multivariate Distance Covariance[J].  _Communications in Statistics-Theory and Methods_. 2024+. Forthcoming. DOI: [https://doi.org/10.1080/03610926.2024.2338418](https://doi.org/10.1080/03610926.2024.2338418).
 - **Y. Chao**, L. Huang, X. J. Ma\*, and J. J. Sun. Optimal Subsampling for Modal Regression in Massive Data[J]. _Metrika_, 87: 379–409, 2024. DOI: [https://doi.org/10.1007/s00184-023-00916-2](https://doi.org/10.1007/s00184-023-00916-2).
