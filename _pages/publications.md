@@ -20,7 +20,7 @@ Papers Under Revision and Review
 - **Y. Chao**<sup>&dagger;</sup>, X. C. Xia\*<sup>&dagger;</sup>, and W. Zhong<sup>&dagger;</sup>. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions. Submitted to *Journal of Computational and Graphical Statistics*. 2024+. Under Review.
 - **Y. Chao**<sup>&dagger;</sup>, L. Huang<sup>&dagger;</sup>, and X. J. Ma\*<sup>&dagger;</sup>. Distributed Optimization for Large-Scale Penalized Regression in Compositional Data. Submitted to *Applied Mathematical Modelling*. 2024+. Under Review.
 -  X .F. Wu<sup>&dagger;</sup>, **Y. Chao**<sup>&dagger;</sup>, S. Tang,  R. M. Liang, and Z. M. Zhang. Feature splitting parallel algorithm for Dantzig selectors. Submitted to *Statistics and Computing*. 2024+. Under Review.
-- Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Learning under Least Squares Approximation. Submitted to *ACM Transactions on Knowledge Discovery from Data*. 2024+. Under Review.
+- Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Estimation for Modal Regression under Least Squares Approximation. Submitted to *ACM Transactions on Knowledge Discovery from Data*. 2024+. Under Review.
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Submitted to *Communications in Statistics - Simulation and Computation*. 2024+. Under Review.
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted to *Journal of Parallel and Distributed Computing*. 2024+. Under Review.
 
