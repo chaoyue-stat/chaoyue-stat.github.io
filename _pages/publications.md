@@ -25,7 +25,7 @@ Papers Under Revision and Review
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted to *Journal of Parallel and Distributed Computing*. 2024+. Under Review.
 - 
 
-Working Paper
+Working Papers
 =======
 - Pilot Surrogate Partial Likelihood Estimation via Distributed Optimal Poisson Subsampling in Diverging Dimensions. 
 - Distributed Tensor Regression.
