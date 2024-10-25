@@ -23,6 +23,12 @@ Papers Under Revision and Review
 - Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Estimation for Modal Regression under Least Squares Approximation. Submitted to *ACM Transactions on Knowledge Discovery from Data*. 2024+. Under Review.
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data. Submitted to *Communications in Statistics - Simulation and Computation*. 2024+. Under Review.
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted to *Journal of Parallel and Distributed Computing*. 2024+. Under Review.
+- 
+
+Working Paper
+=======
+- Pilot Surrogate Partial Likelihood Estimation via Distributed Optimal Poisson Subsampling in Diverging Dimensions. 
+- Distributed Tensor Regression.
 
 
 
