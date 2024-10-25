@@ -29,7 +29,7 @@ Working Paper
 =======
 - Pilot Surrogate Partial Likelihood Estimation via Distributed Optimal Poisson Subsampling in Diverging Dimensions. 
 - Distributed Tensor Regression.
-
+- Modal Tensor Rgeression.
 
 
 
