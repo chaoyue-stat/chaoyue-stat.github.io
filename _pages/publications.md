@@ -7,7 +7,7 @@ author_profile: true
 \*Corresponding Author.
 <sup>&dagger;</sup>These authors contributed equally to this work.
 <sup>\#</sup>Co-first author.
-- **Y. Chao**<sup>&dagger;</sup>, L. Huang<sup>&dagger;</sup>, and X. J. Ma\*<sup>&dagger;</sup>. Distributed Optimization for Penalized Regression in Massive Compositional Data[J]. *Applied Mathematical Modelling*, 115950, 2025. DOI:[https://doi.org/10.1016/j.apm.2025.115950](https://doi.org/10.1016/j.apm.2025.115950).
+- **Y. Chao**<sup>&dagger;</sup>, L. Huang<sup>&dagger;</sup>, and X. J. Ma\*<sup>&dagger;</sup>. Distributed Optimization for Penalized Regression in Massive Compositional Data[J]. *Applied Mathematical Modelling*, 141: 115950, 2025. DOI:[https://doi.org/10.1016/j.apm.2025.115950](https://doi.org/10.1016/j.apm.2025.115950).
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data[J]. _Communications in Statistics - Simulation and Computation_. 2024+. Forthcoming. DOI: [https://doi.org/10.1080/03610918.2024.2436011](https://doi.org/10.1080/03610918.2024.2436011).
 - **Y. Chao**, X. J. Ma\*, and B. Y. Zhu. Distributed Optimal Subsampling for Quantile Regression with Massive Data[J]. _Journal of Statistical Planning and Inference_, 233: 106186, 2024. DOI: [https://doi.org/10.1016/j.jspi.2024.106186](https://doi.org/10.1016/j.jspi.2024.106186).
 - J. R. Chen, X. J. Ma, and **Y. Chao**\*. Testing Independence for Multivariate Time Series by Auto Multivariate Distance Covariance[J].  _Communications in Statistics-Theory and Methods_. 2024+. Forthcoming. DOI: [https://doi.org/10.1080/03610926.2024.2338418](https://doi.org/10.1080/03610926.2024.2338418).
