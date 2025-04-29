@@ -28,7 +28,7 @@ Papers Under Revision and Review
 
 Working Papers
 =======
-- Pilot Surrogate Partial Likelihood Estimation via Distributed Optimal Poisson Subsampling in Diverging Dimensions. 
+- Sampling-Fused Distributed Partial Likelihood Estimation for Multi-Source Survival Data Analysis in Diverging Dimensions. 
 - Distributed Tensor Regression.
 - Modal Tensor Rgeression.
 
