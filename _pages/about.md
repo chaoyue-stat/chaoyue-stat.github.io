@@ -32,6 +32,6 @@ Education
 
 Objective
 ======
--SIGMA: Statistics, Intellegence, Generosity, Motivation, Activeness.
--行到水穷处，坐看云起时
+- SIGMA: Statistics, Intellegence, Generosity, Motivation, Activeness.
+- 行到水穷处，坐看云起时
 
