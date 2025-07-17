@@ -35,3 +35,8 @@ Objective
 - SIGMA: Statistics, Intellegence, Generosity, Motivation, Activeness.
 - 行到水穷处，坐看云起时
 
+Funding and Awards
+======
+- 2024年度福建省优秀博士后支持专项拟支持人选, 福建省人力资源与社会保障厅, 20万
+- 2025年度国家资助博士后研究人员计划 (C档), 具备异质性感知的多源数据整合学习: 建模与推断, 中国博士后科学基金会, GZC20252103, 24万, 主持, 在研
+
