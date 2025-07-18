@@ -35,7 +35,7 @@ Objective
 - SIGMA: Statistics, Intellegence, Generosity, Motivation, Activeness.
 - 行到水穷处, 坐看云起时
 - 精勤求学, 敦笃励志, 果毅力行, 忠恕任事
-- 科研，运动，生活
+- 运动, 科研, 生活
 
 Funding and Awards
 ======
