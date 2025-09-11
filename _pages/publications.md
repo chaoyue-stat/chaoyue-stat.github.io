@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 \*Corresponding Author.
-<sup>&dagger;</sup>These authors contributed equally to this work. Authors are listed alphabetically by last name.
+<sup>&dagger;</sup>All authors contribute equally to this work. Authors are listed alphabetically by last name.
 <sup>\#</sup>Co-first author.
 -  X .F. Wu, **Y. Chao**<sup>\#</sup>, S. Tang,  R. M. Liang, and Z. M. Zhang\*. Feature Splitting Parallel Algorithm for Dantzig Selectors[J]. *Statistics and Computing*, 35:116, 2025. DOI: [https://doi.org/10.1007/s11222-025-10658-y](https://doi.org/10.1007/s11222-025-10658-y).
 - **Y. Chao**, X. C. Xia\*, and W. Zhong<sup>&dagger;</sup>. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions[J]. *Journal of Computational and Graphical Statistics*. 2025+. Forthcoming.  DOI: [https://doi.org/10.1080/10618600.2025.2513964](https://doi.org/10.1080/10618600.2025.2513964).
