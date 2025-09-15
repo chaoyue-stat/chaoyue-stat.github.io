@@ -30,7 +30,7 @@ Working Papers
 =======
 - Distributed Estimation for Large-Scale Tensor Regression.
 - Modal Tensor Rgeression.
-- Distributed Sparse Convoluted Reduced Rank Regression in High Dimensions.
+- DISCERN: Distributed Sparse Convoluted Reduced Rank Regression in High Dimensions.
 
 
 
