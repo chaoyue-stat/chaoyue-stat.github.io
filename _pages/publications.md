@@ -24,7 +24,7 @@ author_profile: true
 Papers Under Revision and Review
 ======
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted to *Journal of Parallel and Distributed Computing*. 2024+. Under Review.
-- L. Huang, **Y. Chao**<sup>\#</sup>, Xiaoyan Li, Changyue Wu\*. Sampling-Fused Distributed Partial Likelihood Estimation in Diverging Dimensions. Submitted to *Knowledge-Based Systems*. 2025+. Under Review.
+- L. Huang, **Y. Chao**<sup>\#</sup>, Xiaoyan Li, Changyue Wu\*. Sampling-Fused Distributed Partial Likelihood Estimation in Diverging Dimensions. Submitted to *Journal of Computational and Applied Mathematics*. 2025+. Under Review.
 
 Working Papers
 =======
