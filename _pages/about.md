@@ -32,6 +32,7 @@ Education
 
 Objective
 ======
+- 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
 - 莫见他人起高楼, 且看自家灶火温, 但守三分知足意, 自有清风叩心门
 - SIGMA: Statistics, Intellegence, Generosity, Motivation, Activeness.
 - 行到水穷处, 坐看云起时
