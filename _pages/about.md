@@ -32,6 +32,7 @@ Education
 
 Objective
 ======
+- 莫见他人起高楼, 且看自家灶火温, 但守三分知足意, 自有清风叩心门
 - SIGMA: Statistics, Intellegence, Generosity, Motivation, Activeness.
 - 行到水穷处, 坐看云起时
 - 精勤求学, 敦笃励志, 果毅力行, 忠恕任事
