@@ -29,12 +29,9 @@ Education
 - Ph.D., Statistics, Soochow University, 2021.9 - 2024.6. Suzhou. Advised by Professor Guojing Wang and Professor(Associate) Xuejun Ma.
 - M.S., Statistics, Southwest Jiaotong University, 2018.9 - 2021.6. Chengdu. Advised by Professor(Associate) Lei Huang.
 - B.S., Mathematics and Applied Mathematics, Southwest Jiaotong University, 2014.9 - 2018.6. Chengdu.
-- 高中, 青海乐都一中, 2011.9-2014.6, 海东乐都.
 
 Objective
 ======
-- 莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
-- 莫见他人起高楼, 且看自家灶火温, 但守三分知足意, 自有清风叩心门
 - SIGMA: Statistics, Intellegence, Generosity, Motivation, Activeness.
 - 行到水穷处, 坐看云起时
 - 精勤求学, 敦笃励志, 果毅力行, 忠恕任事
