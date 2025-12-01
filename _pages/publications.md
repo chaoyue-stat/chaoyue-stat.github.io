@@ -7,7 +7,7 @@ author_profile: true
 \*Corresponding Author.
 <sup>&dagger;</sup>All authors contribute equally to this work. Authors are listed alphabetically by last name.
 <sup>\#</sup>Co-first author.
-- Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data[J]. _Communications in Statistics - Simulation and Computation_. 54(12): 5123–5138, 2025. DOI: [https://doi.org/10.1080/03610918.2024.2436011](https://doi.org/10.1080/03610918.2024.2436011).
+- Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data[J]. _Communications in Statistics - Simulation and Computation_, 54(12): 5123–5138, 2025. DOI: [https://doi.org/10.1080/03610918.2024.2436011](https://doi.org/10.1080/03610918.2024.2436011).
 -  X .F. Wu, **Y. Chao**<sup>\#</sup>, S. Tang,  R. M. Liang, and Z. M. Zhang\*. Feature Splitting Parallel Algorithm for Dantzig Selectors[J]. *Statistics and Computing*, 35:116, 2025. DOI: [https://doi.org/10.1007/s11222-025-10658-y](https://doi.org/10.1007/s11222-025-10658-y).
 - **Y. Chao**, X. C. Xia\*, and W. Zhong<sup>&dagger;</sup>. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions[J]. *Journal of Computational and Graphical Statistics*. 2025+. Forthcoming.  DOI: [https://doi.org/10.1080/10618600.2025.2513964](https://doi.org/10.1080/10618600.2025.2513964).
 - Z. D. Zhang, **Y. Chao**, and X. J. Ma\*. Robust Distributed Estimation for Modal Regression under Least Squares Approximation[J]. *ACM Transactions on Knowledge Discovery from Data* 19(6): 1-21, 2025. DOI: [https://doi.org/10.1145/3742477](https://doi.org/10.1145/3742477).
