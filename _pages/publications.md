@@ -30,7 +30,7 @@ Papers Under Revision and Review
 Working Papers
 =======
 - Distributed Estimation for Large-Scale Tensor Regression.
-- DISCERN: Distributed Sparse Convoluted Reduced Rank Regression in High Dimensions.
+- Distributed Sparse Convoluted Reduced Rank Regression in High Dimensions.
 
 
 
