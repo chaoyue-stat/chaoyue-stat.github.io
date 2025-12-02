@@ -24,7 +24,7 @@ author_profile: true
 Papers Under Revision and Review
 ======
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted to _**Journal of Parallel and Distributed Computing**_. 2024+.  Revision submitted and Under Review.
-- L. Huang, **Y. Chao**<sup>\#</sup>, X. Y. Li, C. Y. Wu\*. Distributed Asymptotic Guarantees for Moderately Diverging-Dimensional Cox Models under Pilot Subsampling. Submitted.
+- L. Huang, **Y. Chao**<sup>\#</sup>, X. Y. Li, C. Y. Wu\*. Distributed Inference for Moderately Diverging-Dimensional Cox Models under Pilot Subsampling. Submitted.
 - M. Y. Wang,**Y. Chao**<sup>\#</sup>, W. Zhong\*. Modal Tensor Rgeression. Submitted.
 
 Working Papers
