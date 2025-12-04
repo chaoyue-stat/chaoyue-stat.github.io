@@ -32,7 +32,7 @@ Working Papers
 - Distributed Sparse Convoluted Reduced Rank Regression in High Dimensions.
 - Distributed Learning for Large-Scale Tensor Regression.
 - Robust Decentralized Learning for Modal Regression in High Dimensions.
-- Distributed Multi-Resolution Subsampling for Logistic Regression in Massive Data
+- Distributed Multi-Resolution Subsampling for Logistic Regression in Massive Data.
 
 
 
