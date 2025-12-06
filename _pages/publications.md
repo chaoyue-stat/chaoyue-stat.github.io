@@ -32,7 +32,7 @@ Working Papers
 - Distributed Sparse Convoluted Reduced Rank Regression in High Dimensions.
 - Distributed Learning for Large-Scale Tensor Regression.
 - Robust Decentralized Learning for Modal Regression in High Dimensions.
-- Communication-Efficient Pilot Distributed Inference for High-dimensional Softmax Regression via Multi-Resolution Perturbation Subsampling.
+- Communication-Efficient Pilot Distributed Inference for High-Dimensional Softmax Regression via Multi-Resolution Perturbation Subsampling.
 
 
 
