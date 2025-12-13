@@ -26,10 +26,10 @@ Papers Under Revision and Review
 - Z. Q. Qin, **Y. Chao**, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression. Submitted to _**Journal of Parallel and Distributed Computing**_. 2024+.  Revision submitted and Under Review.
 - L. Huang, **Y. Chao**<sup>\#</sup>, X. Y. Li, C. Y. Wu\*. Distributed Inference for Moderately Diverging-Dimensional Cox Models under Pilot Subsampling. Submitted.
 - M. Y. Wang,**Y. Chao**<sup>\#</sup>, W. Zhong\*. Modal Tensor Rgeression. Submitted.
+- Y. Du, **Y. Chao**\*. Runtime-Efficient Moment-Free Robust Distributed Reduced-Rank Regression in High Dimensions. Submitted.
 
 Working Papers
 =======
-- Distributed Sparse Convoluted Reduced Rank Regression in High Dimensions.
 - Distributed Learning for Large-Scale Tensor Regression.
 - Robust Decentralized Learning for Modal Regression in High Dimensions.
 - Communication-Efficient Pilot Distributed Inference for High-Dimensional Softmax Regression via Multi-Resolution Perturbation Subsampling.
