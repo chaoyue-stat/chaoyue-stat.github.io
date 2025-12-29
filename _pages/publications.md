@@ -7,7 +7,7 @@ author_profile: true
 \*Corresponding Author.
 <sup>&dagger;</sup>All authors contribute equally to this work. Authors are listed alphabetically by last name.
 <sup>\#</sup>Co-first author.
-- Z. Q. Qin, **Y. Chao**<sup>\#</sup>, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression[J]. Submitted to _**Journal of Parallel and Distributed Computing**_. 210:105214, 2025.  DOI: [https://doi.org/10.1016/j.jpdc.2025.105214](https://doi.org/10.1016/j.jpdc.2025.105214).
+- Z. Q. Qin, **Y. Chao**<sup>\#</sup>, and X. J. Ma\*. Distributed Quadratic Interpolation Estimation for Large-Scale Quantile Regression[J]. _**Journal of Parallel and Distributed Computing**_. 210:105214, 2025.  DOI: [https://doi.org/10.1016/j.jpdc.2025.105214](https://doi.org/10.1016/j.jpdc.2025.105214).
 - Y. Z. Zhao, X. J. Ma, and **Y. Chao**\*. Spatial Lag Quantile Regression in Compositional Data[J]. _**Communications in Statistics - Simulation and Computation**_, 54(12): 5123–5138, 2025. DOI: [https://doi.org/10.1080/03610918.2024.2436011](https://doi.org/10.1080/03610918.2024.2436011).
 -  X .F. Wu, **Y. Chao**<sup>\#</sup>, S. Tang,  R. M. Liang, and Z. M. Zhang\*. Feature Splitting Parallel Algorithm for Dantzig Selectors[J]. _**Statistics and Computing**_, 35:116, 2025. DOI: [https://doi.org/10.1007/s11222-025-10658-y](https://doi.org/10.1007/s11222-025-10658-y).
 - **Y. Chao**, X. C. Xia\*, and W. Zhong<sup>&dagger;</sup>. Communication-Efficient Pilot Estimation for Non-Randomly Distributed Data in Diverging Dimensions[J]. _**Journal of Computational and Graphical Statistics**_. 2025+. Forthcoming.  DOI: [https://doi.org/10.1080/10618600.2025.2513964](https://doi.org/10.1080/10618600.2025.2513964).
