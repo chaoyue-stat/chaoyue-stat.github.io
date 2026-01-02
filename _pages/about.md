@@ -12,7 +12,7 @@ I am a last-year Postdoctoral Fellow in the Department of Statistics and Data Sc
 
 I come from Haidong City, Qinghai Province, which is located at the junction of the Loess Plateau and the Qinghai-Tibet Plateau. Welcome to my personal academic website, dedicated to the field of statistics! I am honored to have the opportunity to share my research and academic interests with you. Furthermore, we can exchange and discuss statistical issues together, and even become friends. Thank you!
 
-[Curriculum Vitae (PDF)]({{ '/files/CY_cv.pdf' | relative_url }})
+Here is my [Curriculum Vitae (PDF)]({{ '/files/CY_cv.pdf' | relative_url }}).
 
 Research Interests
 ======
