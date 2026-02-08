@@ -27,12 +27,15 @@ Papers Under Revision and Review
 - L. Huang, **Y. Chao**<sup>\#</sup>, X. Y. Li, C. Y. Wu\*. Distributed Inference for Moderately Diverging-Dimensional Cox Models under Pilot Subsampling. Submitted.
 - M. Y. Wang, **Y. Chao**<sup>\#</sup>, W. Zhong\*. Modal Tensor Regression: Robust Learning of Representative Structure in Skewed Tensor Data. Submitted.
 - Y. Du, **Y. Chao**\*. Runtime-Efficient Moment-Free Robust Distributed Reduced-Rank Regression in High Dimensions. Submitted.
+- C. Y. Wu, W. Zhong, **Y. Chao**, Q. X. Zhong\*. FedCox: Federated Locally-adaptive Cox Proportional Hazards Models. Submitted.
+
 
 Working Papers
 =======
 - Distributed Learning for Large-Scale Tensor Regression.
 - Robust Decentralized Learning for Modal Regression in High Dimensions.
 - Communication-Efficient Pilot Distributed Inference for High-Dimensional Softmax Regression via Multi-Resolution Perturbation Subsampling.
+- Modifier-Splitting Coefficient Trees for Varying Coefficients.
 
 
 
