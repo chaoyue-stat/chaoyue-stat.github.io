@@ -34,7 +34,7 @@ Working Papers
 =======
 - Distributed Learning for Large-Scale Tensor Regression.
 - Robust Decentralized Learning for Modal Regression in High Dimensions.
-- Communication-Efficient Pilot Distributed Inference for High-Dimensional Softmax Regression via Multi-Resolution Perturbation Subsampling.
+- Optimal Perturbation Subsampling for High-Dimensional Softmax Regression: A Multi-Resolution Partitioning Approach.
 - Modifier-Splitting Coefficient Trees for Varying Coefficients.
 
 
