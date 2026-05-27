@@ -28,7 +28,7 @@ Papers Under Revision and Review
 - M. Y. Wang, **Y. Chao**<sup>\#</sup>, W. Zhong\*. Modal Tensor Regression: Robust Learning of Representative Structure in Skewed Tensor Data. Submitted.
 - Y. Du, **Y. Chao**\*. Moment-Free Robust Distributed Reduced-Rank Regression in High Dimensions. Submitted.
 - C. Y. Wu, W. Zhong, **Y. Chao**, Q. X. Zhong\*. FedCox: Federated Locally-adaptive Cox Proportional Hazards Models. Submitted.
--**Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted.
+- **Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted.
 
 
 Working Papers
