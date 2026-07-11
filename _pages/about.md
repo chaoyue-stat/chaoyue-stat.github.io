@@ -23,7 +23,8 @@ My research interests include
 
 Work Experience
 ======
-- Postdoc Fellow, Statistics, Xiamen University, 2024.7 - now. Xiamen. Advised by Professor Wei Zhong.
+- Assistant Professor, Statistics, School of Mathematics, Southwest Jiaotong University, Chengdu.
+- Postdoc Fellow, Statistics, WISE, Xiamen University, 2024.9 - 2026.7. Xiamen. Advised by Professor Wei Zhong.
 
 Education
 ======
