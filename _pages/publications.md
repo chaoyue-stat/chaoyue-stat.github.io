@@ -29,16 +29,15 @@ Papers Under Revision and Review
 - Y. Du, **Y. Chao**\*. Moment-Free Robust Distributed Reduced-Rank Regression in High Dimensions. Submitted.
 - C. Y. Wu, W. Zhong, **Y. Chao**, Q. X. Zhong\*. FedCox: Federated Locally-adaptive Cox Proportional Hazards Models. Submitted.
 - **Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted.
-
+- **Y. Chao**, H. Lei\*, Y. Liu. Exploiting Pairwise Transferability under High-Dimensional Convoluted Rank Regression. Submitted.
 
 Working Papers
 =======
 - Tensor Elastic Screening and Localized Alignment on a Distributed System.
 - Modifier-Splitting Coefficient Trees for Varying Coefficients.
 - Distributed Subsampling for Massive Logistic Partially Linear Models under Auxiliary Summary Statistics.
-- Optimal Decorrelated score Pairwise Subsampling for Diverging-dimensional Convoluted Rank Rgeression via Randomized Incomplete U-Statistics.
-- Optimal Decorrelated score Subsampling for High-Dimensional Modal Regression with Massive Data.
-- Residual Importance Weighted Transfer Learning in Sparse Robust Convoluted Reduced-Rank Multivariate Regression.
+- Optimal Pairwise Subsampling for Diverging-dimensional Convoluted Rank Rgeression via Randomized Incomplete U-Statistics.
+- Optimal Decorrelated Score Subsampling for Modal Regression with Massive Data.
 - Robust Angle-Based Transfer Learning for High-Dimensional Modal Spatial Autoregressive Models.
 
 
