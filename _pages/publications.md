@@ -29,7 +29,7 @@ Papers Under Revision and Review
 - Y. Du, **Y. Chao**\*. Moment-Free Robust Distributed Reduced-Rank Regression in High Dimensions. Submitted.
 - C. Y. Wu, W. Zhong, **Y. Chao**, Q. X. Zhong\*. FedCox: Federated Locally-adaptive Cox Proportional Hazards Models. Submitted.
 - **Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted.
-- **Y. Chao**, H. Lei\*, Y. Liu. Exploiting Pairwise Transferability under High-Dimensional Convoluted Rank Regression. Submitted.
+- **Y. Chao**, L. Huang\*, Y. Liu. Exploiting Pairwise Transferability under High-Dimensional Convoluted Rank Regression. Submitted.
 
 Working Papers
 =======
