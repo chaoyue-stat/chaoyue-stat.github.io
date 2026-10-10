@@ -38,7 +38,6 @@ Working Papers
 - Distributed Subsampling for Massive Logistic Partially Linear Models under Auxiliary Summary Statistics.
 - Optimal Pairwise Subsampling for Diverging-dimensional Convoluted Rank Rgeression via Randomized Incomplete U-Statistics.
 - Optimal Decorrelated Score Subsampling for Modal Regression with Massive Data.
-- Robust Angle-Based Transfer Learning for High-Dimensional Modal Spatial Autoregressive Models.
 
 
 
