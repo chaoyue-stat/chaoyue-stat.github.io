@@ -27,10 +27,10 @@ Papers Under Revision and Review
 - **Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted.
 - **Y. Chao**, L. Huang\*, Y. Liu. Exploiting Pairwise Transferability under High-Dimensional Convoluted Rank Regression. Submitted.
 - Y. Du, **Y. Chao**\*. Moment-Free Robust Distributed Reduced-Rank Regression in High Dimensions. Submitted.
+- W. F. Liu, Xunkai Guan, **Yue Chao**\*. Optimal Decorrelated Score Subsampling for Large-Scale Modal Regression. Submitted.
 - L. Huang, **Y. Chao**<sup>\#</sup>, X. Y. Li, C. Y. Wu\*. Multi-Source Risk Assessment on Distributed Systems via Pilot Sampling-Fused Survival Modeling. Submitted.
 - M. Y. Wang, **Y. Chao**<sup>\#</sup>, W. Zhong\*. Modal Tensor Regression: Robust Learning of Representative Structure in Skewed Tensor Data. Submitted.
 - C. Y. Wu, W. Zhong, **Y. Chao**, Q. X. Zhong\*. FedCox: Federated Locally-adaptive Cox Proportional Hazards Models. Submitted.
-- W. F. Liu, Xunkai Guan, **Yue Chao**\*. Optimal Decorrelated Score Subsampling for Large-Scale Modal Regression. Submitted.
 
 Working Papers
 =======
