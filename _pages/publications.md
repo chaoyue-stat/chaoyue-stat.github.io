@@ -38,7 +38,6 @@ Working Papers
 - Modifier-Splitting Coefficient Trees for Varying Coefficients.
 - Distributed Subsampling for Massive Logistic Partially Linear Models under Auxiliary Summary Statistics.
 - Optimal Pairwise Subsampling for Diverging-dimensional Convoluted Rank Rgeression via Randomized Incomplete U-Statistics.
-- Optimal Decorrelated Score Subsampling for Modal Regression with Massive Data.
 
 
 
