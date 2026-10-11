@@ -30,6 +30,7 @@ Papers Under Revision and Review
 - C. Y. Wu, W. Zhong, **Y. Chao**, Q. X. Zhong\*. FedCox: Federated Locally-adaptive Cox Proportional Hazards Models. Submitted.
 - **Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted.
 - **Y. Chao**, L. Huang\*, Y. Liu. Exploiting Pairwise Transferability under High-Dimensional Convoluted Rank Regression. Submitted.
+- W. F. Liu, Xunkai Guan, Yue Chao\*. Optimal Decorrelated Score Subsampling for Large-Scale Modal Regression. Submitted.
 
 Working Papers
 =======
