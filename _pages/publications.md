@@ -24,7 +24,7 @@ author_profile: true
 
 Papers Under Revision and Review
 =======
-- **Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted.
+- **Y. Chao**, W. F. Liu\*. Rao-Blackwellized Optimal Subsampling with Multi-Resolution Partitioning in Large-Scale Softmax Regression. Submitted. [\[Code\]](https://github.com/chaoyue-stat/chaoyue-stat.github.io/tree/master/code/OSSRMP)
 - **Y. Chao**, L. Huang\*, Y. Liu. Exploiting Pairwise Transferability under High-Dimensional Convoluted Rank Regression. Submitted.
 - Y. Du, **Y. Chao**\*. Moment-Free Robust Distributed Reduced-Rank Regression in High Dimensions. Submitted.
 - W. F. Liu, Xunkai Guan, **Yue Chao**\*. Optimal Decorrelated Score Subsampling for Large-Scale Modal Regression. Submitted.
