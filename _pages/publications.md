@@ -38,8 +38,9 @@ Working Papers
 =======
 - Tensor Elastic Screening and Localized Alignment on a Distributed System.
 - Modifier-Splitting Coefficient Trees for Varying Coefficients.
-- Distributed Subsampling for Massive Logistic Partially Linear Models under Auxiliary Summary Statistics.
+- Distributed Neyman-Orthogonal Score Subsampling for Logistic Partially Linear Models with Auxiliary Summary Statistics.
 - Optimal Pairwise Subsampling for Diverging-dimensional Convoluted Rank Rgeression via Randomized Incomplete U-Statistics.
+- Distributed Optimal Multi-Resolution Subsampling for Convoluted Support Tensor Machines.
 
 
 
